@@ -1,3 +1,3 @@
-  If you want to contact me, my Discord is @kermeet#1638
-
-<sub>idk what else to put here</sub>
+![krmeet's Github Stats](https://github-readme-stats.vercel.app/api?username=krmeet&show_icons=true&theme=omni&hide_border=true)
+![krmeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krmeet&layout=compact&theme=omni&langs_count=10&hide_border=true)
+### @kermeet on Discord
