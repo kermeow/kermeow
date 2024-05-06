@@ -1,4 +1,4 @@
-<b>@kermeet on Discord</b>
+<b>@kermeet on Discord</b><br/>
 Currently learning: Rust
 
 <p align="center">
