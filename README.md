@@ -1,5 +1,5 @@
 <b>@kermeet on Discord</b><br/>
-Currently learning: Rust
+Programming lover
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=kermeow&show_icons=true&theme=omni&hide_border=true" height="195px"/>
